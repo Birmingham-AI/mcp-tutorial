@@ -1,5 +1,9 @@
 # MCP Tutorial
 
+## Presentation
+
+View our [presentation and introduction to MCP](https://docs.google.com/presentation/d/1eIESGdMSsXOcNXoi4T3xpxMheVAizenhX2gB9jb9jgE/edit?usp=sharing).
+
 ## Browser Tools MCP
 
 **Note: you already have the BrowserTools & MCP-LOGO-GEN MCP servers in this directory, so you do not need to clone them again.**
@@ -20,6 +24,10 @@
 2. Add your [FAL AI](https://fal.ai/) API key to a `.env` file in the root directory **of the MCP-LOGO-GEN server**. You can get one for free after registering.
 3. Add the MCP server to your client configuration.
 4. Run the server with `python run_server.py`.
+
+### Experiment
+
+1. Open your agent chat. Say `Create a new hero image for our @index.html page`
 
 ## `mcp.json`
 
